@@ -1,1 +1,1 @@
-# technical-metadata-specification
+# metadata vocabulary Health-RI
